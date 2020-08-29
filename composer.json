@@ -14,6 +14,13 @@
       "Krevilraj\\Contact\\": "src"
     }
   },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Krevilraj\\Contact\\ContactServiceProvider"
+      ]
+    }
+  },
   "minimum-stability": "dev",
   "require": {}
 }
