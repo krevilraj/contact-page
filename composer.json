@@ -1,0 +1,19 @@
+{
+  "name": "krevilraj/contact",
+  "description": "this is a simple contact module",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Krevilraj",
+      "email": "krevilraj@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Krevilraj\\Contact\\": "src"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
